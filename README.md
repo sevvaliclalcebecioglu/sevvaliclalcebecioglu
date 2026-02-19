@@ -10,11 +10,25 @@
 ---
 
 ## 🚀 About Me
-<p align="center">
-AI Enthusiast focused on <b>Machine Learning, Deep Learning, NLP, and Computer Vision</b>.  
-Built 50+ end-to-end projects covering ML, DL, NLP, CV, and deployment.  
+<p>
+I am an AI Engineer focused on Large Language Models (LLMs), intelligent agents, and applied machine learning systems.**.
 
-Currently <b>exploring LLM applications, AI agents, and prompt engineering</b> while strengthening applied ML skills.  
+My background includes building end-to-end data science projects across regression, classification, clustering, NLP, computer vision, and deep learning. Through 25+ applied projects, I developed strong foundations in:
+
+- Data preprocessing & feature engineering
+- Model training & evaluation
+- Transfer learning & deep learning
+- Streamlit-based deployment
+- Hugging Face demos & interactive applications
+
+Currently, I specialize in:
+
+- LLM applications
+- Prompt engineering
+- Retrieval-Augmented Generation (RAG) systems
+- Intelligent AI agents
+
+My goal is to design and build real-world AI systems that combine reasoning, retrieval, and automation — moving beyond traditional modeling into production-level intelligence.
 </p>
 
 ---
