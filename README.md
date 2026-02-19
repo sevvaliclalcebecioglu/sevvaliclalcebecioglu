@@ -15,8 +15,6 @@ AI Enthusiast focused on <b>Machine Learning, Deep Learning, NLP, and Computer V
 Built 50+ end-to-end projects covering ML, DL, NLP, CV, and deployment.  
 
 Currently <b>exploring LLM applications, AI agents, and prompt engineering</b> while strengthening applied ML skills.  
-
-Background in <b>Management Information Systems</b> & <b>Advertising</b>, combining analytical thinking with creative problem solving.
 </p>
 
 ---
