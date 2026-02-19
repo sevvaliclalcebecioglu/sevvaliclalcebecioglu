@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 <p align="center">
-AI Engineer focused on <b>LLM-powered applications</b>, <b>intelligent agent systems</b>, and <b>applied machine learning</b>.  
-Built 50+ end-to-end projects covering ML, Deep Learning, NLP, Computer Vision, and deployment.  
+AI Enthusiast focused on <b>Machine Learning, Deep Learning, NLP, and Computer Vision</b>.  
+Built 50+ end-to-end projects covering ML, DL, NLP, CV, and deployment.  
 
-Currently specializing in <b>LLM applications, RAG systems, prompt engineering, and AI automation</b>.  
+Currently <b>exploring LLM applications, AI agents, and prompt engineering</b> while strengthening applied ML skills.  
 
 Background in <b>Management Information Systems</b> & <b>Advertising</b>, combining analytical thinking with creative problem solving.
 </p>
@@ -72,10 +72,9 @@ Background in <b>Management Information Systems</b> & <b>Advertising</b>, combin
 
 - Machine Learning & Deep Learning Systems  
 - NLP & Computer Vision Applications  
-- RAG-based AI Assistants  
-- Streamlit AI Web Apps  
-- Hugging Face Live Demos  
+- Streamlit & Interactive AI Web Apps  
 - End-to-End ML Pipelines  
+- Projects in progress: LLM Applications & AI Agents
 
 Check out my projects here:  
 👉 https://github.com/sevvaliclalcebecioglu?tab=repositories
