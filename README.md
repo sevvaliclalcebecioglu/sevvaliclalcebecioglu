@@ -13,7 +13,7 @@
 <p>
 I am an AI Engineer focused on Large Language Models (LLMs), intelligent agents, and applied machine learning systems.**.
 
-My background includes building end-to-end data science projects across regression, classification, clustering, NLP, computer vision, and deep learning. Through 25+ applied projects, I developed strong foundations in:
+My background includes building end-to-end data science projects across regression, classification, clustering, NLP, computer vision, and deep learning. Through 50+ applied projects, I developed strong foundations in:
 
 - Data preprocessing & feature engineering
 - Model training & evaluation
