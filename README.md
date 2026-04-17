@@ -2,7 +2,9 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHhxZnR5bXBzeXB4Z2hmamF1bDE3ZGZwcjh6MzhrYmcwMHliaGt6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ule4vhcY1xEKQ/giphy.gif" width="180" alt="coding gif"/>
 </p>
 
-<h1 align="center">✨ Hi, I'm Şevval 👋</h1>
+<h1 align="center">
+  ✨ <a href="https://sevval-cb.vercel.app/">Hi, I'm Şevval 👋</a>
+</h1>
 <p align="center">
   <em>Data Scientist | LLM Applications | AI Systems | Python</em>
 </p>
