@@ -4,7 +4,7 @@
 
 <h1 align="center">✨ Hi, I'm Şevval 👋</h1>
 <p align="center">
-  <em>AI Engineer | LLM Applications & Intelligent Agents | Prompt Engineering | Python</em>
+  <em>Data Scientist | LLM Applications | AI Systems | Python</em>
 </p>
 
 ---
