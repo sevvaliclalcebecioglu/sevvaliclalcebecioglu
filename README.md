@@ -6,7 +6,7 @@
   ✨ <a href="https://sevval-cb.vercel.app/">Hi, I'm Şevval 👋</a>
 </h1>
 <p align="center">
-  <em>Data Scientist | LLM Applications | AI Systems | Python</em>
+  <em>Data Scientist | ML Engineer | NLP | Python</em>
 </p>
 
 ---
